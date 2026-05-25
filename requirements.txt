@@ -1,0 +1,23 @@
+# Frontend
+react
+react-dom
+react-router-dom
+axios
+
+# Backend
+express
+cors
+dotenv
+mongoose
+jsonwebtoken
+bcryptjs
+
+# Real-time communication
+socket.io
+socket.io-client
+
+# Utilities
+nodemon
+
+# Package manager
+npm
